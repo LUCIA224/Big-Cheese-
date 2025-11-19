@@ -1,2 +1,2 @@
 # Big-Cheese-
-A practice repository. 
+A practice repository by Lucia. 
